@@ -6,9 +6,10 @@
 
 ****
 *****修改后请求体和响应体特征*****：
-    ![img.png](img.png)
+    ![img/img.png](img/img.png)
 *****免杀效果：*****
-    ![img_1.png](img_1.png)
+    ![img/img_1.png](img/img_1.png)
+    ![img/img_2.png](img/img_2.png)
 ****
 
 **以下为原项目介绍：**
