@@ -215,6 +215,5 @@ GPL 3.0
 
 ## Star History Chart
 
-[![Star History Chart](https://api.star-history.com/svg?repos=L-codes/Neo-reGeorg&type=Date)](https://star-history.com/#L-codes/Neo-reGeorg&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Re1axCyber/PHP-Bypass_Neo-reGeorg&type=Date)](https://star-history.com/#Re1axCyber/PHP-Bypass_Neo-reGeorg&Date)
 
-<img align='right' src="https://profile-counter.glitch.me/neo-regeorg/count.svg" width="200">
